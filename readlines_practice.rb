@@ -4,4 +4,3 @@ lines.each do |words|
     p word
   end
 end
-
